@@ -221,10 +221,13 @@ footer p {
   font-weight: 600;
 }
 
+.read-more{
+  background-color: yellow;
+  margin:20px;
+  color: blue;
+  margin-left: 600px;
+}
+
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
-
-
-
-
